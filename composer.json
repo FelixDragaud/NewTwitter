@@ -1,0 +1,22 @@
+{
+    "name": "feliksh/mvc_2",
+    "require": {
+        "twig/twig": "^1.31.1",
+        "doctrine/dbal": "^2.5",
+        "symfony/yaml": "^3.2",
+        "symfony/console": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "Controllers/",
+            "Models\\": "Models/"
+        }
+    },
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "FelixDragaud",
+            "email": "felix.dragaud@gmail.com"
+        }
+    ]
+}

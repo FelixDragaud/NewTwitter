@@ -1,0 +1,7 @@
+doctrine:
+    host: localhost
+    port: 3325
+    dbname: MVC2
+    user: root
+    password: 14725836dfaz
+    driver: pdo_mysql
